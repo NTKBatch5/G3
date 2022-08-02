@@ -9,13 +9,18 @@ public class DemoG3 {
 		
 		System.out.println("Monique Wilkerson");
 		
-		System.out.printlm("Team G3 is awesome!");
+		System.out.println("Team G3 is awesome!");
 		
 		System.out.println("Zamon Osman");
 		// WOW
 
 		System.out.println("Jacobo Concepción");
 		// Jacob
+	}
+	
+	public static void getMath(int a, int b) {
+		
+		System.out.println(a+b);
 	}
 
 }
