@@ -20,7 +20,15 @@ public class DemoG3 {
 		System.out.println("Suriah Jones");
 		System.out.println("Suriah E ");
 		//Suriah
+				System.out.println("Zamon Osman");
+		// WOW
+
+		System.out.println("Jacobo Concepción");
+		// Jacob
 		
+		System.out.println("Suriah Jones");
+		System.out.println("Suriah E ");
+		//Suriah
 		System.out.println("Douglas Chavarria");
 		//Doug
 	}
@@ -33,6 +41,15 @@ public class DemoG3 {
 	private void myName(String str){
 		str = "Karim Modar";
                System.out.println(str);
+				System.out.println("Zamon Osman");
+		// WOW
+
+		System.out.println("Jacobo Concepción");
+		// Jacob
+		
+		System.out.println("Suriah Jones");
+		System.out.println("Suriah E ");
+		//Suriah
 }
 	public static void getName(String name) {
 		System.out.println(name);
