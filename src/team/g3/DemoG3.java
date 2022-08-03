@@ -18,7 +18,7 @@ public class DemoG3 {
 		// Jacob
 		
 		System.out.println("Suriah Jones");
-		System.out.println("Suriah E ");
+		
 		//Suriah
 	}
 	
