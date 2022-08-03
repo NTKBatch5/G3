@@ -20,7 +20,11 @@ public class DemoG3 {
 		System.out.println("Suriah Jones");
 		System.out.println("Suriah E ");
 		//Suriah
+		
+		System.out.println("Douglas Chavarria");
+		//Doug
 	}
+	
 	
 	public static void getMath(int a, int b) {
 		
@@ -29,4 +33,8 @@ public class DemoG3 {
 	private void myName(String str){
 		str = "Karim Modar";
                System.out.println(str);
+}
+	public static void getName(String name) {
+		System.out.println(name);
+	}
 }
