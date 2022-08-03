@@ -26,5 +26,7 @@ public class DemoG3 {
 		
 		System.out.println(a+b);
 	}
-
+	private void myName(String str){
+		str = "Karim Modar";
+               System.out.println(str);
 }
