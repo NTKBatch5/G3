@@ -6,7 +6,7 @@ public class DemoG3 {
 		System.out.println("Test");
 		
 		System.out.println("Yousuf Babarzai");
-		
+		//Diamonds are a git best friend :)
 		System.out.println("Monique Wilkerson");
 		
 		System.out.println("Team G3 is awesome!");
