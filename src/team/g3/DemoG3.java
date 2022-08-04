@@ -53,6 +53,8 @@ public class DemoG3 {
 		
 		System.out.println("Third attempt by Zamon");
 
+		int num = 10;
+		System.out.println(num);
 
 
 		
