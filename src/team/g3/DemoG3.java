@@ -4,8 +4,8 @@ public class DemoG3 {
 	
 	public static void main(String[] args) {
 		
-		//maybe error will work
-		 //error message 123
+	System.out.println("Automation script");
+	
 		System.out.println("Commit");
 		//this was added
 		
@@ -14,6 +14,8 @@ public class DemoG3 {
 		System.out.println("Test");
 		
 		System.out.println("Yousuf Babarzai");
+		
+		System.out.println("G3 team is the best");
 
 
 		//Diamonds are a git best friend :)
@@ -53,9 +55,10 @@ public class DemoG3 {
 		
 		System.out.println("Third attempt by Zamon");
 
-
-
+		int num = 10;
+		System.out.println(num);
 		
+		System.out.println("Java is Fun");
 	}
 	
 	
