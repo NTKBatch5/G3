@@ -13,7 +13,7 @@ public class DemoG3 {
 		System.out.println("Test");
 		
 		System.out.println("Yousuf Babarzai");
-		//Diamonds are a git best friend :)
+		//Diamonds are a git best friend x3:)
 		System.out.println("Monique Wilkerson");
 		
 		
