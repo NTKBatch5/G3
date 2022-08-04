@@ -5,6 +5,7 @@ public class DemoG3 {
 	public static void main(String[] args) {
 		
 	System.out.println("Automation script");
+	System.out.println ("Automation script from Jacob");
 	
 		System.out.println("Commit");
 		//this was added
