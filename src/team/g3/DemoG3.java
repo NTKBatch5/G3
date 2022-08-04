@@ -57,9 +57,8 @@ public class DemoG3 {
 
 		int num = 10;
 		System.out.println(num);
-
-
 		
+		System.out.println("Java is Fun");
 	}
 	
 	
