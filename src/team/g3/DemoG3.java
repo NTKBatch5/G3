@@ -6,7 +6,6 @@ public class DemoG3 {
 		
 		//maybe error will work
 		 //error message 123
-		//error 1212
 		System.out.println("Commit");
 		//this was added
 		
