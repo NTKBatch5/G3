@@ -4,15 +4,22 @@ public class DemoG3 {
 	
 	public static void main(String[] args) {
 		
-		 
+		//maybe error will work
+		 //error message 123
 		System.out.println("Commit");
 		//this was added
+		
+		System.out.println("Error created");
 		
 		System.out.println("Test");
 		
 		System.out.println("Yousuf Babarzai");
 
+
 		//Diamonds are a git best friend :)
+
+		//Diamonds are a git best friend x3:)
+
 		System.out.println("Monique Wilkerson");
 		
 		
@@ -41,6 +48,11 @@ public class DemoG3 {
 		//Doug
 		
 		//Yousuf B
+		System.out.println("tes trial");
+		System.out.println(" Second tes trial");
+
+
+
 		
 	}
 	
