@@ -17,10 +17,11 @@ public class DemoG3 {
 		
 		System.out.println("G3 team is the best");
 
+		// Diamonds are a git best friend :)
 
 		//Diamonds are a git best friend :)
 
-		//Diamonds are a git best friend x3:)
+		System.out.println("Monique Wilkerson");
 
 		System.out.println("Monique Wilkerson");
 		
@@ -59,11 +60,16 @@ public class DemoG3 {
 		System.out.println(num);
 		
 		System.out.println("Java is Fun");
+
 		/**
-		8/5/22
-		Selenium Day 1 
-		Went through Agile Environment with Fahim
-		*/
+		 * 8/5/22 Selenium Day 1 Went through Agile Environment with Fahim
+		 */
+
+	}
+
+	public void devBrnachTest() {
+		System.out.println("This is coming from dev branch....");
+
 	}
 	
 	
