@@ -4,13 +4,13 @@ public class DemoG3 {
 
 	public static void main(String[] args) {
 
-		//im here yes thanks
-	System.out.println("Aomation script");
-	System.out.println ("Automation script from Jacob");
-	
+		// im here yes thanks
+		System.out.println("Aomation script");
+		System.out.println("Automation script from Jacob");
 
 		System.out.println("Automation script");
 
+		System.out.println("Automation script");
 
 		System.out.println("Automation script");
 
