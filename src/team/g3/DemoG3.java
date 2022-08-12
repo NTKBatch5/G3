@@ -8,8 +8,11 @@ public class DemoG3 {
 	System.out.println("Aomation script");
 	System.out.println ("Automation script from Jacob");
 	
+
 		System.out.println("Automation script");
 
+
+		System.out.println("Automation script");
 
 		System.out.println("Commit");
 		// this was added
